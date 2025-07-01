@@ -1,0 +1,11 @@
+# Ignore all files
+*
+
+# Except these:
+!.streamlit/
+!app.py
+!pick_aging.db
+!requirements.txt
+
+# Optional: ignore .DS_Store or system files
+.DS_Store
