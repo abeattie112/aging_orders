@@ -3,7 +3,7 @@ import sqlite3
 import pandas as pd
 
 # === CONFIGURATION ===
-DB_PATH = r"C:\Users\andrew.beattie\AppData\Local\Programs\Python\Python313\Lib\Projects_2\pick_aging.db"
+DB_PATH = "pick_aging.db"
 
 # === View mapping ===
 VIEW_MAPPING = {
