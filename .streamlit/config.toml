@@ -18,4 +18,5 @@ font = "sans serif"
 
 [auth]
 enable = true
-email_whitelist = ["abeattie112@gmail.com"]
+email_whitelist = ["abeattie112@gmail.com", "madimesenbrink19@gmail.com"]
+
