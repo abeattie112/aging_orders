@@ -1,0 +1,16 @@
+[server]
+headless = true
+
+[client]
+showErrorDetails = true
+
+[theme]
+primaryColor = "#6eb52f"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+font = "sans serif"
+
+[auth]
+enable = true
+email_whitelist = ["your-email@gmail.com"]
